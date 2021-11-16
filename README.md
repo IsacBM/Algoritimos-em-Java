@@ -1,2 +1,2 @@
-# Inicio_da_Jornada
+# Atividades respondidas em Java
 Um arquivo simples, só para dar inicio a minha jornada pelo github.
