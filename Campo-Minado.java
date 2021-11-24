@@ -32,6 +32,5 @@ import java.util.Scanner;
                   }
                   System.out.println(mina_explosiva);
         }
-        
     }
 }
