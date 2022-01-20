@@ -1,2 +1,2 @@
 # Algoritimos em Java
-Meus exercícios respondidos em Java!
+Seja bem-vindo(a) aos meus exercícios respondidos em Java!
