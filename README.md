@@ -1,2 +1,2 @@
-# Algoritimos respondidos em Java
+# Algoritimos em Java
 Meus exercícios respondidos em Java!
