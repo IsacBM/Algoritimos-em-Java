@@ -22,7 +22,7 @@ Seu programa deve imprimir apenas uma linha, contendo apenas um inteiro, indican
 | 14                               | 7                    |
 | 1 1 1 20 20 20 20 3 3 3 3 3 3 3  |                      |
 |---------------------------------------------------------| */
-                       /*Código */
+                     /*Código em Java*/
 /*---------------------------------------------------------*/
 
 // Início;
