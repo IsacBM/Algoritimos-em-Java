@@ -1,7 +1,9 @@
 # Algoritmos em Java
 Seja bem-vindo(a) aos meus algoritmos respondidos em **Java!** Aqui você poderá ver os enunciados caso queira práticar, e as **minhas resoluções** para eles!
 
-**Querido(a) Programador(a):**
+# **Querido(a) Programador(a):**
 
-Quando eu escrevi alguns desses códigos, apenas Deus e eu sabíamos como ele funcionava. Agora, apenas Deus sabe!
-Portanto, se você estiver tentando melhorar esta rotina porque está falhando e "com certeza está", espero que não sinta muitas dores de cabeça! :) */
+   Quando eu escrevi alguns desses códigos, apenas Deus e eu sabíamos como ele funcionava. Agora, apenas Deus sabe!
+Portanto, se você estiver tentando melhorar esta rotina porque está falhando e "com certeza está", espero que não sinta muitas dores de cabeça! :)
+                             
+                                                      (Levem na Brincadeira)
