@@ -6,4 +6,6 @@ Seja bem-vindo(a) aos meus algoritmos respondidos em **Java!** Aqui você poder�
    <code>"Quando eu escrevi alguns desses códigos, apenas Deus e eu sabíamos como ele funcionava. Agora, apenas Deus sabe!
 Portanto, se você estiver tentando melhorar esta rotina porque está falhando e 'com certeza está', boa sorte na jornada, amigo(a)! :)"</code>
                                                          
-                                                  (Levem na Brincadeira...)
+                                        (Levem na Brincadeira...)
+
+#
