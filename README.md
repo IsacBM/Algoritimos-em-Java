@@ -3,7 +3,7 @@ Seja bem-vindo(a) aos meus algoritmos respondidos em **Java!** Aqui você poder�
 
 ## Sobre os códigos:
 Em relação a quais fontes para o desenvolvimento dos códigos, você encontrará **questões** da: <br>
-•<a href="https://olimpiada.ic.unicamp.br/">  <u>**OBI**</u></a> <br>
+•<a href="https://olimpiada.ic.unicamp.br/">  <u>**OBI - (Olimpíada Brasileira de Informática)**</u></a> <br>
 •<a href="https://neps.academy/br/">  **Neps Academy**</a> <br>
 •<a href="https://www.codewars.com/"> **Code Wars**</a> <br>
 •<a href="https://exercism.org/"> **Exercism**</a> <br>
