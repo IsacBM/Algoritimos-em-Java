@@ -3,10 +3,14 @@ Seja bem-vindo(a) aos meus algoritmos respondidos em **Java!** Aqui você poder�
 
 ## Sobre os códigos:
 Em relação a quais fontes para o desenvolvimento dos códigos, você encontrará **questões** da: <br>
-<a href="https://olimpiada.ic.unicamp.br/"> <u>**OBI**</u></a> <br>
-<a href="https://neps.academy/br/"> **Neps Academy**</a> <br>
-**Maratonas de Programação** e afinsdjj.
-•gamers
+•<a href="https://olimpiada.ic.unicamp.br/">  <u>**OBI**</u></a> <br>
+•<a href="https://neps.academy/br/">  **Neps Academy**</a> <br>
+•<a href="https://www.codewars.com/"> **Code Wars**</a> <br>
+•<a href="https://exercism.org/"> **Exercism**</a> <br>
+•<a href="https://www.beecrowd.com.br/judge/pt/"> **Beecrowd**</a> <br>
+• **SendIT** <br>
+• **Maratonas de Programação**
+
 ## **Querido(a) Programador(a):**
 
    <code>"Quando eu escrevi alguns desses códigos, apenas Deus e eu sabíamos como ele funcionava. Agora, apenas Deus sabe!
