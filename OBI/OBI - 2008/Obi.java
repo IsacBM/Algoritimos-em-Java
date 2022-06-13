@@ -30,7 +30,7 @@ indicando o número de competidores que serão convidados a participar do curso 
 ------------------------------------------------------------------------------|
 // Início; @Isac B.M
 import java.util.Scanner;
-  class Principal {
+  class Obi {
     public static void main(String[] args) {
       Scanner Zacks = new Scanner(System.in);
 // Variáveis 1;
