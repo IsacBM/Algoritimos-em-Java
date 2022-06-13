@@ -1,7 +1,6 @@
 /*------------------------------------------------------------------------------|
                                    OBI
                         (OBI2008, Fase 1, Nível 1)
-
 O principal prêmio da Olimpíada Brasileira de Informática é o convite para 
 os cursos de programação oferecidos no Instituto de Computação da Unicamp, 
 com todas as despesas pagas pela Fundação Carlos Chagas, patrocinadora da OBI.
