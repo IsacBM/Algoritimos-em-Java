@@ -1,9 +1,5 @@
 # Algoritmos em Java:
 Seja bem-vindo(a) aos meus algoritmos respondidos em **Java!** Aqui você poderá ver as questões caso queira práticar, e as **minhas resoluções** para eles! 
-<div>
- <a href="" target="_blank"><img align="left" alt="Linkedin" height="30" src="https://img.shields.io/badge/linkedin-1a1b27.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
-  <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"><img target="_blank"> <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723" align="center" alt="Isac-JAVA" height="30" width="85" hspace="220" target="_blank"></a>
-  <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" align="right" alt="Instagram" height="30"  target="_blank"></a> </div>
   
 ## Sobre os códigos:
 Em relação a quais fontes para o desenvolvimento dos códigos, você encontrará **questões** da: <br>
@@ -14,6 +10,11 @@ Em relação a quais fontes para o desenvolvimento dos códigos, você encontrar
 •<a href="https://www.beecrowd.com.br/judge/pt/"> **Beecrowd**</a> <br>
 • **SendIT** <br>
 • **Maratonas de Programação**
+
+<div>
+ <a href="" target="_blank"><img align="left" alt="Linkedin" height="30" src="https://img.shields.io/badge/linkedin-1a1b27.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+  <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"><img target="_blank"> <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723" align="center" alt="Isac-JAVA" height="30" width="85" hspace="220" target="_blank"></a>
+  <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" align="right" alt="Instagram" height="30"  target="_blank"></a> </div>
 
 ## **Querido(a) Programador(a):**
 
