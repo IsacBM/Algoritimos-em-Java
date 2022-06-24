@@ -19,6 +19,6 @@ Portanto, se você estiver tentando melhorar esta rotina porque está falhando e
                                            (Levem na Brincadeira...)
 
 #
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/linkedin-1a1b27.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
-  <a href="" target="_blank"><img target="_blank"><img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723" target="_blank"></a>
+ <center><a href="" target="_blank"><img align="left" alt="Isac-JAVA" height="30" src="https://img.shields.io/badge/linkedin-1a1b27.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a></center>
+  <a href="" target="_blank"><img target="_blank"> <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723" target="_blank"></a>
   <a href="https://www.instagram.com/isacbm_/" target="_blank"><img align="right" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" target="_blank"></a>
