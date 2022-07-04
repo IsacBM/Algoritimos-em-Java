@@ -32,7 +32,7 @@ import java.util.Scanner;
           double Num1 = Zacks.nextDouble();
            double Num2 = Zacks.nextDouble();
 // Resultado:
-           System.out.printf("MEDIA = %.4f", (((Num1 * 3.5) + ( Num2 * 7.5)) / 11));
+           System.out.printf("MEDIA = %.5f", (((Num1 * 3.5) + ( Num2 * 7.5)) / 11));
      }
   }
 // Fim...
