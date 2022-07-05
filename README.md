@@ -16,7 +16,7 @@ Em relação a quais fontes para o desenvolvimento dos códigos, você encontrar
    <code>"Quando eu escrevi alguns desses códigos, apenas Deus e eu sabíamos como ele funcionava. Agora, apenas Deus sabe!
 Portanto, se você estiver tentando melhorar esta rotina porque está falhando e 'com certeza está', boa sorte na jornada, amigo(a)! :)"</code>
                                                          
-                                            (Leve na Brincadeira...)
+                                             (Leve na Brincadeira...)
 
 #
 
